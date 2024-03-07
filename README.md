@@ -42,7 +42,7 @@ Resolving deltas: 100% (2/2), done.
 
 ```
 
-## How to open the project on the laptop
+## How to open the project 
 * after cloning the repository, open Intellij IDEA
 * click file -> open
 * choose folder / file
